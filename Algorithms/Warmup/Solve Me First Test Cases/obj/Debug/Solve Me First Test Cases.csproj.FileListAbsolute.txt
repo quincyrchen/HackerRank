@@ -1,0 +1,9 @@
+C:\Users\QuincyC\Documents\GitHub\HackerRank\Algorithms\Warmup\Solve Me First Test Cases\bin\Debug\Solve Me First Test Cases.dll
+C:\Users\QuincyC\Documents\GitHub\HackerRank\Algorithms\Warmup\Solve Me First Test Cases\bin\Debug\Solve Me First Test Cases.pdb
+C:\Users\QuincyC\Documents\GitHub\HackerRank\Algorithms\Warmup\Solve Me First Test Cases\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\QuincyC\Documents\GitHub\HackerRank\Algorithms\Warmup\Solve Me First Test Cases\bin\Debug\Solve Me First.exe
+C:\Users\QuincyC\Documents\GitHub\HackerRank\Algorithms\Warmup\Solve Me First Test Cases\bin\Debug\Solve Me First.pdb
+C:\Users\QuincyC\Documents\GitHub\HackerRank\Algorithms\Warmup\Solve Me First Test Cases\bin\Debug\ja\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\QuincyC\Documents\GitHub\HackerRank\Algorithms\Warmup\Solve Me First Test Cases\obj\Debug\Solve Me First Test Cases.csprojResolveAssemblyReference.cache
+C:\Users\QuincyC\Documents\GitHub\HackerRank\Algorithms\Warmup\Solve Me First Test Cases\obj\Debug\Solve Me First Test Cases.dll
+C:\Users\QuincyC\Documents\GitHub\HackerRank\Algorithms\Warmup\Solve Me First Test Cases\obj\Debug\Solve Me First Test Cases.pdb

@@ -1,0 +1,6 @@
+C:\Users\QuincyC\Documents\GitHub\HackerRank\Algorithms\Warmup\Solve Me First\bin\Debug\Solve Me First.exe.config
+C:\Users\QuincyC\Documents\GitHub\HackerRank\Algorithms\Warmup\Solve Me First\bin\Debug\Solve Me First.exe
+C:\Users\QuincyC\Documents\GitHub\HackerRank\Algorithms\Warmup\Solve Me First\bin\Debug\Solve Me First.pdb
+C:\Users\QuincyC\Documents\GitHub\HackerRank\Algorithms\Warmup\Solve Me First\obj\Debug\Solve Me First.csprojResolveAssemblyReference.cache
+C:\Users\QuincyC\Documents\GitHub\HackerRank\Algorithms\Warmup\Solve Me First\obj\Debug\Solve Me First.exe
+C:\Users\QuincyC\Documents\GitHub\HackerRank\Algorithms\Warmup\Solve Me First\obj\Debug\Solve Me First.pdb

@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Solve Me First", "Solve Me First.csproj", "{2A2B726B-97F5-43BB-B174-D62C53C7789B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Solve Me First Test Cases", "..\Solve Me First Test Cases\Solve Me First Test Cases.csproj", "{6ECCEC12-7AFD-4106-A546-5E784456D1B9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A2B726B-97F5-43BB-B174-D62C53C7789B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A2B726B-97F5-43BB-B174-D62C53C7789B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A2B726B-97F5-43BB-B174-D62C53C7789B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A2B726B-97F5-43BB-B174-D62C53C7789B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6ECCEC12-7AFD-4106-A546-5E784456D1B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6ECCEC12-7AFD-4106-A546-5E784456D1B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6ECCEC12-7AFD-4106-A546-5E784456D1B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6ECCEC12-7AFD-4106-A546-5E784456D1B9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
