@@ -1,0 +1,6 @@
+C:\Users\QuincyC\Documents\GitHub\HackerRank\Algorithms\Warmup\bin\Debug\Warmup.exe.config
+C:\Users\QuincyC\Documents\GitHub\HackerRank\Algorithms\Warmup\bin\Debug\Warmup.exe
+C:\Users\QuincyC\Documents\GitHub\HackerRank\Algorithms\Warmup\bin\Debug\Warmup.pdb
+C:\Users\QuincyC\Documents\GitHub\HackerRank\Algorithms\Warmup\obj\Debug\Warmup.csprojResolveAssemblyReference.cache
+C:\Users\QuincyC\Documents\GitHub\HackerRank\Algorithms\Warmup\obj\Debug\Warmup.exe
+C:\Users\QuincyC\Documents\GitHub\HackerRank\Algorithms\Warmup\obj\Debug\Warmup.pdb
