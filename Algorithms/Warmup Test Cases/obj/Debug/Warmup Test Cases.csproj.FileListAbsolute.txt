@@ -1,9 +1,0 @@
-C:\Users\QuincyC\Documents\GitHub\HackerRank\Algorithms\Warmup Test Cases\bin\Debug\Warmup Test Cases.dll
-C:\Users\QuincyC\Documents\GitHub\HackerRank\Algorithms\Warmup Test Cases\bin\Debug\Warmup Test Cases.pdb
-C:\Users\QuincyC\Documents\GitHub\HackerRank\Algorithms\Warmup Test Cases\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
-C:\Users\QuincyC\Documents\GitHub\HackerRank\Algorithms\Warmup Test Cases\bin\Debug\Warmup.exe
-C:\Users\QuincyC\Documents\GitHub\HackerRank\Algorithms\Warmup Test Cases\bin\Debug\Warmup.pdb
-C:\Users\QuincyC\Documents\GitHub\HackerRank\Algorithms\Warmup Test Cases\bin\Debug\ja\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
-C:\Users\QuincyC\Documents\GitHub\HackerRank\Algorithms\Warmup Test Cases\obj\Debug\Warmup Test Cases.csprojResolveAssemblyReference.cache
-C:\Users\QuincyC\Documents\GitHub\HackerRank\Algorithms\Warmup Test Cases\obj\Debug\Warmup Test Cases.dll
-C:\Users\QuincyC\Documents\GitHub\HackerRank\Algorithms\Warmup Test Cases\obj\Debug\Warmup Test Cases.pdb

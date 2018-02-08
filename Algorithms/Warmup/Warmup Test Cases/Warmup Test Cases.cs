@@ -24,7 +24,8 @@ namespace SimpleArraySum_TestCases
     public class UnitTests
     {
         [TestMethod]
-        public void simpleArraySum() {
+        public void simpleArraySum()
+        {
             int[] ar = { 1, 2, 3, 4, 5 };
             int n = 5;
             int expected = 15;

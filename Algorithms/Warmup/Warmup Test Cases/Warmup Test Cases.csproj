@@ -3,7 +3,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{E8A8CA33-0306-4971-ABBE-DB007F9BF79D}</ProjectGuid>
+    <ProjectGuid>{51018B37-D817-443F-9584-C55231E72D0C}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>Warmup_Test_Cases</RootNamespace>
@@ -50,11 +50,11 @@
     </Otherwise>
   </Choose>
   <ItemGroup>
-    <Compile Include="WarmupTestCases.cs" />
+    <Compile Include="Warmup Test Cases.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Warmup\Warmup.csproj">
+    <ProjectReference Include="..\Warmup.csproj">
       <Project>{b4c150df-675e-493c-9abd-769b412baf7d}</Project>
       <Name>Warmup</Name>
     </ProjectReference>
