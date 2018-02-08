@@ -29,7 +29,7 @@ namespace SimpleArraySum_TestCases
             int n = 5;
             int expected = 15;
             int actual = SimpleArraySum.Solution.simpleArraySum(n, ar);
-            Assert.AreEqual(expected, actual, "simpleArraySum Test Case Failed.")
+            Assert.AreEqual(expected, actual, "simpleArraySum Test Case Failed.");
         }
     }
 }

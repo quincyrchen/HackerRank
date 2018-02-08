@@ -43,7 +43,9 @@ namespace SimpleArraySum
             //Notice that n (the number of items in the array) is not used, since arrays have the Length property we can call on.
         }
 
-        static void Main(String[] args)
+        //You don't actually need to do anything here. Main was renamed for compilation purposes; VS needs to have a single entry point in a project to work.
+        //I keep these unnecessary code lines here so that the solutions look more similar to the hackerrank code so as to cause less confusion.
+        static void ReplaceWithMain(String[] args)
         {
             int n = Convert.ToInt32(Console.ReadLine());
             string[] ar_temp = Console.ReadLine().Split(' ');
@@ -51,5 +53,5 @@ namespace SimpleArraySum
             int result = simpleArraySum(n, ar);
             Console.WriteLine(result);
         }
-
     }
+}
